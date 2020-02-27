@@ -14,7 +14,7 @@ Using whatever method you wish (_We're big fans of Vue.js, Python, and Ruby here
 - [ ] **REQUIREMENT 2:** Format each list item so that it shows the product name, vendor name, price, and description
 - [ ] **REQUIREMENT 3:** Sort the list so that vendors with the lowest id appear first, highest id appear last
 
-## BONUS
+### BONUS
 **BONUS**: Sort the list based on price, lowest price first
 
 **BONUS**: Make it look cool. Be creative!
@@ -26,4 +26,4 @@ Using whatever method you wish (_We're big fans of Vue.js, Python, and Ruby here
 ## Finishing Up
 When finished, send us a link to your repo with the completed challenge, or zip up the repo and send to Ray.
 
-## Good Luck! Feel free to reach out with any questions.
+### Good Luck! Feel free to reach out with any questions.
