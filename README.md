@@ -16,9 +16,10 @@ Using whatever method you wish (_We're big fans of Vue.js, Python, and Ruby here
 
 ## BONUS
 **BONUS**: Sort the list based on price, lowest price first
+
 **BONUS**: Make it look cool. Be creative!
 
-## Estimated Time: 3 hours
+### Estimated Time: 3 hours
 
 ## Finishing Up
 When finished, send us a link to your repo with the completed challenge, or zip up the repo and send to Ray.
