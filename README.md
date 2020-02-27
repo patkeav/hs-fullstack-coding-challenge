@@ -1,4 +1,4 @@
-# hs-fullstack-coding-challenge
+# HealthSqyre Fullstack Coding Challenge
 This repo exists to hold the coding challenge requirements for potential candidates.
 
 ## Getting Started
