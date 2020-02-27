@@ -19,6 +19,8 @@ Using whatever method you wish (_We're big fans of Vue.js, Python, and Ruby here
 
 **BONUS**: Make it look cool. Be creative!
 
+---
+
 ### Estimated Time: 3 hours
 
 ## Finishing Up
