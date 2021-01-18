@@ -12,7 +12,7 @@ Using whatever method you wish (_We're big fans of Vue.js, Python, and Ruby here
 ## Requirements
 - [ ] **REQUIREMENT 1:** Get the data, display the names of each product in a list
 - [ ] **REQUIREMENT 2:** Format each list item so that it shows the product name, vendor name, price, and description
-- [ ] **REQUIREMENT 3:** Sort the list so that vendors with the lowest id appear first, highest id appear last
+- [ ] **REQUIREMENT 3:** Add a sort feature that allows a user to sort via price (e.g. lowest price to highest price)
 
 ### BONUS
 **BONUS**: Sort the list based on price, lowest price first
