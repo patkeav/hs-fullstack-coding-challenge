@@ -4,7 +4,7 @@ This repo exists to hold the coding challenge requirements for potential candida
 ## Getting Started
 This repo contains a `test.html` file with the specific requirements for the challenge.
 It also contains a `data.const.js` file that holds the data objects for this challenge.
-Feel free to fork this repo or pull down the files to your local. 
+Feel free to fork this repo or pull down the files to your local, but do not push directly to this repo.
 
 ## The Challenge
 You will build a simple shopping cart application that includes, on the front-end, a product list and a shopping cart and, on the back-end, an API that includes a small set of common e-commerce endpoints. Frameworks are optional and of your choosing. (We like to use Python and VueJS here, as well as Ruby.)
