@@ -7,17 +7,32 @@ It also contains a `data.const.js` file that holds the data objects for this cha
 Feel free to fork this repo or pull down the files to your local. 
 
 ## The Challenge
-Using whatever method you wish (_We're big fans of Vue.js, Python, and Ruby here, but you are free to use another language or library, keep in mind this position is heavy on the frontend_), write a component that gets the information from the data file and displays it in an HTML template.
+You will build a simple shopping cart application that includes, on the front-end, a product list and a shopping cart and, on the back-end, an API that includes a small set of common e-commerce endpoints. Frameworks are optional and of your choosing. (We like to use Python and VueJS here, as well as Ruby.)
 
 ## Requirements
-- [ ] **REQUIREMENT 1:** Get the data, display the names of each product in a list
-- [ ] **REQUIREMENT 2:** Format each list item so that it shows the product name, vendor name, price, and description
-- [ ] **REQUIREMENT 3:** Add a sort feature that allows a user to sort via price (e.g. lowest price to highest price)
+- [ ] **REQUIREMENT 1:** On their first interaction, an end user should see the list of items from the test product list. 
+- [ ] **REQUIREMENT 2:** From here, the user should be able to:
+    - Add individual items to the cart.
+    - View their Cart (which will start with no items)
+- [ ] **REQUIREMENT 3:** From the Cart  user should be able to:
+    - View all added items, including name & pricing 
+    - View the total price across all items  
+
+Note: If changes are made to the cart, price totals should be updated. 
+
+Please provide us with documentation and an easy way to start this application.
+
+## Considerations
+- There should be a server-side and client-side component to this project.
+- This should be a very basic cart implementation.
+- Writing tests are encouraged.
+- It’s okay to cut corners and “hardcode” things, just be prepared to answer questions about this in a follow up discussion .
+
 
 ### BONUS
-**BONUS**: Sort the list based on price, lowest price first
+**BONUS**: Add ability for user to update item quantities in the cart
 
-**BONUS**: Make it look cool. Be creative!
+**BONUS**: Add ability for user to remove an item from the cart
 
 ---
 
