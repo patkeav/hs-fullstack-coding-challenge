@@ -2,8 +2,7 @@
 This repo exists to hold the coding challenge requirements for potential candidates.
 
 ## Getting Started
-This repo contains a `test.html` file with the specific requirements for the challenge.
-It also contains a `data.const.js` file that holds the data objects for this challenge.
+This repo contains a `data.const.js` file that holds the data objects for this challenge.
 Feel free to fork this repo or pull down the files to your local, but do not push directly to this repo.
 
 ## The Challenge
